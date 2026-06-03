@@ -8,7 +8,7 @@
 
 I build clean interfaces using modern front-end tools.
 
-My work sits between **design and code** — creating scalable interfaces, reusable UI systems, and digital products that balance visual quality with clean technical execution.
+My work sits between **design and code**, creating scalable interfaces, reusable UI systems, and digital products that balance visual quality with clean technical execution.
 
 ---
 
