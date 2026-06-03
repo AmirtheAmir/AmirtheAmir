@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/header.png" alt="Amir Nasseri GitHub Header" width="100%" />
-</p>
-
-<h1 align="center">Hi, I’m Amir 👋</h1>
+<h1 align="center">Hello, I’m Amir 👋</h1>
 
 <p align="center">
   Front-End Developer with a strong eye for UI, layout, and clean visual systems.
@@ -38,14 +34,5 @@ My work sits between **design and code** — creating scalable interfaces, reusa
 
 - Prefer Mike Mentzer over Arnold  
 - I prefer classic cinema  
-- Big AC/DC fan  
+- Big AC/DC fan <p align="left"><img src="./assets/acdc-logo.png" alt="AC/DC Logo" width="120" /></p>
 
-<p align="left">
-  <img src="./assets/acdc-logo.png" alt="AC/DC Logo" width="120" />
-</p>
-
----
-
-### Status
-
-`Shipping Pixels.`
