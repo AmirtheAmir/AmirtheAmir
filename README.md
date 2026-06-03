@@ -4,8 +4,6 @@
   Front-End Developer with a strong eye for UI, layout, and clean visual systems.
 </p>
 
----
-
 ### What I do
 
 I build clean interfaces using modern front-end tools.
