@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I’m Amir</h1>
 
-<h3 align="center">
+<p align="center">
   Front-End Developer with a strong eye for UI, layout, and clean visual systems.
-</h3>
+</p>
 
 ### What I do
 
