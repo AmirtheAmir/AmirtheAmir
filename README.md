@@ -24,13 +24,13 @@ My work sits between **design and code**, creating scalable interfaces, reusable
 
 ### Tech I use
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase` · `AWS` · `MapLibre` · `Figma` · `Framer Motion`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase` · `AWS` · `MapLibre` · `Figma` · `Framer Motion` . `React Native` 
 
 ---
 
 ### A few facts
 
-- Prefer Mike Mentzer over Arnold  
-- I prefer classic cinema  
+- I Prefer Mike Mentzer over Arnold  
+- Billy Wilder Is Great  
 - Huge AC/DC fan here <p align="left"><img src="./assets/acdc-logo.png" alt="AC/DC Logo" width="120" /></p>
 
