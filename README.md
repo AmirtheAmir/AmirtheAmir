@@ -6,8 +6,18 @@
 
 ### What I do
 
-I develop interactive web applications, data-driven interfaces, and scalable front-end architectures.
-My work spans complex UI systems, data visualization, API integrations, and responsive digital products, with an emphasis on performance, accessibility, and maintainability.
+<h3>What I do</h3>
+
+<p style="font-weight: normal;">
+  I develop interactive web applications, data-driven interfaces, and scalable front-end architectures.
+</p>
+
+<p style="font-weight: normal;">
+  My work spans complex UI systems, data visualization, API integrations, and responsive digital products, with an emphasis on performance, accessibility, and maintainability.
+</p>
+
+<hr>
+
 ---
 
 ### How I work
