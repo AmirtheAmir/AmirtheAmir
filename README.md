@@ -1,15 +1,14 @@
 <h1 align="center">Hello, I’m Amir</h1>
 
 <p align="center">
-  Front-End Developer with a strong eye for UI, layout, and clean visual systems.
+  Front-End Developer with UI/UX background :)
 </p>
 
 ### What I do
 
-I build clean interfaces using modern front-end tools.
+I develop interactive web applications, data-driven interfaces, and scalable front-end architectures.
 
-My work sits between **design and code**, creating scalable interfaces, reusable UI systems, and digital products that balance visual quality with clean technical execution.
-
+My work spans complex UI systems, data visualization, API integrations, and responsive digital products, with an emphasis on performance, accessibility, and maintainability.
 ---
 
 ### How I work
@@ -22,15 +21,21 @@ My work sits between **design and code**, creating scalable interfaces, reusable
 
 ---
 
-### Tech I use
+### Tech Stack
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Supabase` · `AWS` · `MapLibre` · `Figma` · `Framer Motion` . `React Native` 
+**Languages & Frameworks**  
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `React Native`
+
+**UI & Visualization**  
+`Tailwind CSS` · `Framer Motion` · `GSAP` · `React Flow` · `ELK.js` · `MapLibre GL`
+
+**Backend & Services**  
+`Supabase` · `AWS S3` · `REST APIs` · `Stripe`
+
+**Development & Design**  
+`Git` · `GitHub` · `Figma` · `Photoshop` · `Vercel`
 
 ---
 
-### A few facts
-
-- I Prefer Mike Mentzer over Arnold  
-- Billy Wilder Is Great  
-- Huge AC/DC fan here <p align="left"><img src="./assets/acdc-logo.png" alt="AC/DC Logo" width="120" /></p>
+Huge AC/DC fan here <p align="left"><img src="./assets/acdc-logo.png" alt="AC/DC Logo" width="120" /></p>
 
